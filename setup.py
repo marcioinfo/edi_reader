@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="rede edi",
     version="0.0.4",
-    author="Darlei Soares",
-    author_email="darleisantossoares@gmail.com",
+    author="Marcio Correa",
+    author_email="marcioinfo.correa@gmail.com",
     description="A package to handle rede EDI",
     long_description=long_description,
     long_description_content_type="text/markdown",
